@@ -1,2 +1,2 @@
 # DACapT
-The new tracker based on Capsule network
+A new tracker based on Capsule network
