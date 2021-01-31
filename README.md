@@ -2,6 +2,10 @@
 A new tracker based on Capsule network, which is a first few work for tracking-by-vector
 
 The code will released after the paper is accepted.
+# Requirements
+- PyTorch =0.4.1
+- Python 2.7
+- opencv
 
 # Abstract
 
@@ -10,3 +14,5 @@ The code will released after the paper is accepted.
 
 
 # Contact
+
+
