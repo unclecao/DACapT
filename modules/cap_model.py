@@ -8,7 +8,7 @@ from torch.autograd import Variable
 import torch
 
 import time
-from capsule.capsule_layer import CapsuleLayer
+from capsule_layer import CapsuleLayer
 #from roi_module import RoIPooling2D
 #from new_roipool.roi_pooling.modules.roi_pool import _RoIPooling # another version of roipool
 from new_roialign.roi_align.modules.roi_align import RoIAlignAvg # 
