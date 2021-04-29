@@ -1,5 +1,5 @@
 Our DACapT is a capsule extension of MDNet (https://github.com/hyeonseobnam/py-MDNet).
-If you are insrested in our work, please cite:
+If you are interested in our work, please cite:
 
 "Cao Y, Ji H, Zhang W, et al. Feature Aggregation Networks based on Dual Attention Capsules for Visual Object Tracking[J].
 IEEE Transactions on Circuits and Systems for Video Technology, 2021."
