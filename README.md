@@ -18,4 +18,4 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2021.
 Our work is the extension of tracking-by-detection method MDNet (https://github.com/hyeonseobnam/py-MDNet/). 
 And thanks for their open source codes, we maintain the similar tracking procedures.
 
-For the capsule construction, we are inspired by the work of https://github.com/unclecao/capsule-net-pytorch.
+For the capsule construction, we are inspired by the work of https://github.com/cedrickchee/capsule-net-pytorch.
